@@ -1,0 +1,5 @@
+﻿  Server_One.cpp
+c:\users\asus\source\repos\kyrs_os_5sem\server_one\server_one\server_one.cpp(43): warning C4477: "sprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+c:\users\asus\source\repos\kyrs_os_5sem\server_one\server_one\server_one.cpp(45): warning C4477: "sprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+c:\users\asus\source\repos\kyrs_os_5sem\server_one\server_one\server_one.cpp(47): warning C4477: "sprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+  Server_One.vcxproj -> C:\Users\Asus\source\repos\KYRS_OS_5SEM\Server_One\Debug\Server_One.exe
